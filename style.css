@@ -1,0 +1,36 @@
+.header {background-color: black;}
+h1 {
+	color: #FF9653;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	text-align : center;
+}
+
+h3 {
+	color: white;
+	text-align : right;
+}
+
+.pitch {
+	flex-direction: row;
+	display: flex;
+
+}
+.market {
+	flex-direction: row-reverse;
+	display: flex;
+}
+
+
+img {
+	height: 300px;
+}
+
+p {
+	text-align: right;
+}
+
+.footer {background-color: black;}
